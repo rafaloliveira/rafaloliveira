@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rafaloliveira
+- 👋 Hi, I’m @rafaeloliveira
 - 👀 I’m interested in become software Developer
 - 🌱 I’m currently learning Python, HTML, CSS, JS 
 - 💞️ I’m looking to collaborate on development
