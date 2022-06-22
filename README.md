@@ -18,4 +18,3 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaloliveira&show_icons=true&border_radius=10&theme=merko)
 name: Generate Datas
 
-https://github.com/rafaloliveira/rafaloliveira/blob/main/.github/workflows/cob
