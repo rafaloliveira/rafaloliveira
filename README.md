@@ -1,23 +1,23 @@
-👋 Olá! Sou Rafael
+👋 Hello! I'm Rafael
 
-💻 Desenvolvedor Python
-📊 Analista de Dados
+💻 Python Developer
+📊 Data Analyst
 📈 Power BI
-📊 Planilheiro Excel
+📊 Excel Spreadsheet
 
-🌐 Apaixonado por tecnologia e análise de dados, estudo desenvolvimento em Python e gosto de transformar números em insights valiosos. Busco estudar SQL para extrair e manipular dados, e procuro especializar em criar visualizações de dados impactantes com o Power BI. Além disso, sou um amante de planilhas Excel, para tornar dados complexos fáceis de entender.
+🌐 Passionate about technology and data analysis, I study Python development and enjoy transforming numbers into valuable insights. I seek to study SQL to extract and manipulate data, and I seek to specialize in creating impactful data visualizations with Power BI. Also, I am a lover of Excel spreadsheets to make complex data easy to understand.
 
-🔧 Minhas habilidades em desenvolvimento incluem:
-   - Desenvolvimento em Python
-   - Consultas SQL para análise de dados
-   - Criação de dashboards e relatórios no Power BI
-   - Automatização de tarefas com VBA no Excel
-   - Transformação e limpeza de dados
-   - Análise estatística e modelagem de dados
+🔧 My developing skills include:
+   - Development in Python
+   - SQL queries for data analysis
+   - Creation of dashboards and reports in Power BI
+   - Automation of tasks with VBA in Excel
+   - Data transformation and cleaning
+   - Statistical analysis and data modeling
 
-🌟 Estou constantemente aprendendo e aprimorando minhas habilidades para enfrentar desafios de dados cada vez mais complexos. Adoro colaborar em projetos de código aberto e compartilhar conhecimento com a comunidade.
+🌟 I am constantly learning and improving my skills to face increasingly complex data challenges. I love collaborating on open source projects and sharing knowledge with the community.
 
-📫 Vamos nos conectar? Sinta-se à vontade para enviar uma mensagem ou colaborar em projetos interessantes. Estou sempre aberto a novas oportunidades e desafios emocionantes!
+📫 Let's connect? Feel free to send a message or collaborate on interesting projects. I am always open to new opportunities and exciting challenges!
 
 
       
